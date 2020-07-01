@@ -1,3 +1,3 @@
 Created Using jQuery,html,css
 
-concept: 
+concept: https://en.wikipedia.org/wiki/Simon_(game)
